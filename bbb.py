@@ -90,7 +90,7 @@ def main():
         sys.exit(1)
 
     # Open output file for found addresses
-    file_header = 'dictionary word, received bitcoins, wallet address, private address, current balance'
+    file_header = 'dictionary word, received bitcoins, wallet address, private key, current balance'
     logging.info("Opening output file {} for writing".format(args.output_file))
     try:
         f_found_addresses = codecs.open(args.output_file, 'w', dictionary_encoding)
