@@ -90,4 +90,3 @@ python bbb.py -t blockchaininfo -d dictionary.txt -o found.txt
 2014-04-03 21:40:02,313 INFO   line 101  a,0.01000000,1HUBHMij46Hae75JPdWjeZ5Q7KaL7EFRSD,ca978112ca1bbdcafac231b39a23dc4da786eff8147c4e72b9807785afee48bb,0.00000000
 ```
 
-```
